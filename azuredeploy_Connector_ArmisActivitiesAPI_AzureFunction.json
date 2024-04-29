@@ -176,7 +176,7 @@
                         "ArmisActivitiesTableName": "[parameters('ArmisActivitiesTableName')]",
                         "Schedule": "[parameters('ArmisSchedule')]",
                         "AvoidDuplicates": "[parameters('AvoidDuplicates')]",
-                        "WEBSITE_RUN_FROM_PACKAGE": "https://aka.ms/sentinel-ArmisActivitiesAPI-functionapp"
+                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/priyalaxminayak/Armis-Integration/blob/main/ArmisActivitySentinelConn_QA.zip?raw=true"
                     }
                 }
             ]
