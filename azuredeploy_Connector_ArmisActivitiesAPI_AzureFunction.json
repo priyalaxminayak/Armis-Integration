@@ -224,7 +224,7 @@
                         "Azure_Client_Id": "[parameters('Azure_Client_Id')]",
                         "Azure_Client_Secret": "[parameters('Azure_Client_Secret')]",
                         "Azure_Tenant_Id": "[parameters('Azure_Tenant_Id')]",
-                        "WEBSITE_RUN_FROM_PACKAGE": "https://aka.ms/sentinel-ArmisActivitiesAPI-functionapp"
+                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/priyalaxminayak/Armis-Integration/blob/main/ArmisActivitySentinelConn.zip?raw=true"
                     }
                 }
             ]
